@@ -84,3 +84,7 @@ xgboost
 joblib
 
 gradio
+
+
+
+and you can find the dataset here : https://www.unb.ca/cic/datasets/ids-2017.html
